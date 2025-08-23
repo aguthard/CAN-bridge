@@ -12,6 +12,9 @@ To provide a simple way to connect two or more CAN-bus motherboards (AFC-light, 
 
 It's a quick fix, but it works and brings some order to the wiring.
 
+# Versions
+There are two version available.
+The version as shown in the pictures, and a version where the male connector ist rotated by 90°.
 
 #  BOM
 
